@@ -3,8 +3,7 @@ Live app can be found here: https://tinapan-newssearch-github.glitch.me/
 
 ## Notes
 
-Bootstrapped with **create-react-app**.<br>
-Based on the project `Yelp Search` by [Codecademy](https://www.codecademy.com/).
+Bootstrapped with **create-next-app**.<br>
 
 Project files are divided into four components:
 * `Article`
@@ -15,7 +14,7 @@ Project files are divided into four components:
 A search API helper module is located in `util/SearchApiHelper.js`.
 
 ## Features
-App takes user input to search for articles in the `Content` endpoint of the Guardian api. The app can be extended to search for articles by other publications if a published API is available. 
+App takes user input to search for articles in the `Content` endpoint of the Guardian api
 
 The following features are included: 
 * Article elements display *title* and *publication date* (formatted as DD/MM/YYYY)
