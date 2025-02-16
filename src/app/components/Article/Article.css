@@ -1,0 +1,34 @@
+.Article {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 16.66rem;
+  margin: 0 .5rem 2.3rem .5rem;
+}
+
+.Article .image-container {
+  height: 16.66rem;
+  margin-bottom: 1rem;
+}
+
+.Article h2 {
+  margin-bottom: .5rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.Article-information {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Article-information p {
+  font-size: .88rem;
+  font-weight: 300;
+  line-height: 1rem;
+}
+
+.Article a {
+  color: #007cb0;
+}
+
