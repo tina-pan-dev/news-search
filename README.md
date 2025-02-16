@@ -1,6 +1,3 @@
-## Live app
-Live app can be found here: https://tinapan-newssearch-github.glitch.me/
-
 ## Notes
 
 Bootstrapped with **create-next-app**.<br>
